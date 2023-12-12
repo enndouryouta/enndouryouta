@@ -1,4 +1,4 @@
 functionn sayhello71(){
-alert(Hello,'+
-document.getElementByID(‘who71').value+'!');      
+alert('Hello,'+
+document.getElementById(‘who71').value+'!');      
 }
